@@ -16,9 +16,6 @@
 
 #### Feel free to create a pull request to contribute to any of my repositories.💙
 
-------
-Credit: [mani-barathi](https://github.com/mani-barathi)
-Last Edited on: 11/4/2021
 </samp>
 
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
@@ -56,8 +53,3 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 
 </samp>
 </details>
-
-----
-Credits: [TanZng](https://github.com/TanZng)
-
-Last Edited on: 31/08/2020
