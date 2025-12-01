@@ -45,7 +45,7 @@
   <a href="https://x.com/Reveng102" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://youtube.com/MaTeO-ggX" target="_blank">
+  <a href="https://youtube.com/@MaTeO-ggX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/users/mateo025920" target="_blank">
