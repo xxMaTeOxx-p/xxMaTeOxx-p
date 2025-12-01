@@ -48,10 +48,10 @@
   <a href="https://youtube.com/@MaTeO-ggX" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="30" alt="youtube logo"  />
   </a>
-  <a href="https://discord.com/users/mateo025920" target="_blank">
+  <a href="https://discord.com/users/xmateo12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="30" alt="discord logo"  />
   </a>
-  <a href="mailto:revengbattauz@gmail.com" target="_blank">
+  <a href="mailto:battauzmateo1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
 </div>
